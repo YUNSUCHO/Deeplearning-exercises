@@ -8,4 +8,4 @@ This forder consists of the examples that have been used the Pytorch framework t
 
 
 ## Folder2. TransferLearning
-This folder has xonsists of the examples that have been used the tensorflow framework to build the transfer learning model. Similar as the Folder1, the exercisese contains the whole pipeline of the model and visualization.
+This folder has consists of the examples that have been used the tensorflow framework to build the transfer learning model. Similar as the Folder1, the exercisese contains the whole pipeline of the model and visualization.
